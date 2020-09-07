@@ -1,0 +1,7 @@
+C:\Users\pxyz6n\source\repos\TestSolution\QUestions\obj\Debug\QUestions.csprojAssemblyReference.cache
+C:\Users\pxyz6n\source\repos\TestSolution\QUestions\obj\Debug\QUestions.csproj.CoreCompileInputs.cache
+C:\Users\pxyz6n\source\repos\TestSolution\QUestions\bin\Debug\QUestions.exe.config
+C:\Users\pxyz6n\source\repos\TestSolution\QUestions\bin\Debug\QUestions.exe
+C:\Users\pxyz6n\source\repos\TestSolution\QUestions\bin\Debug\QUestions.pdb
+C:\Users\pxyz6n\source\repos\TestSolution\QUestions\obj\Debug\QUestions.exe
+C:\Users\pxyz6n\source\repos\TestSolution\QUestions\obj\Debug\QUestions.pdb
