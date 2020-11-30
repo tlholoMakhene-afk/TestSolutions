@@ -25,7 +25,9 @@ namespace Functions
         static void Main(string[] args)
         {
             var list2 = new List<string>() { "100", "geek", "200", "400", "for", "101", "2018", "64", "74", "geeks", "27", "7810" };
-            Console.WriteLine($"Sum of Intergers in String List{CalSum(list2)}");
+            Console.Write('['); list2.ForEach((x) => {  Console.Write('{' + $"{x}" + "},");  }); Console.Write(']');
+            
+            Console.WriteLine($"\n Sum of Intergers in String List: {CalSum(list2)}");
             Console.ReadKey();
         }
     }
