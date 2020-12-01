@@ -14,7 +14,7 @@ namespace QUestions.Question7
         {
             try
             {
-                    string fileName = @"C:\Users\pxyz6n\source\repos\Functions\Functions\Questions.bin";
+                    string fileName = @"C:\repos\Functions\Functions\Questions.bin";
                     List<byte> list;
                     using (FileStream fs = new FileStream(fileName, FileMode.Open, FileAccess.Read))
 
