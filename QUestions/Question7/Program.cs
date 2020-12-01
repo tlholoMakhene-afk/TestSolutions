@@ -28,7 +28,7 @@ namespace QUestions.Question7
                     {
                         if (i == 7)
                         {
-                            list.RemoveAt(7);
+                            list.RemoveAt(i);
                         }
 
                     }
